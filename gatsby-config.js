@@ -127,7 +127,7 @@ const defaultPlugins = [
             }
           `,
           output: "/feed.xml",
-          title: `RSS feed for ${siteTitle}`,
+          title: `${siteTitle} - blog of developer and bookworm Benjamin Read`,
         },
       ],
     },
